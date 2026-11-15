@@ -39,7 +39,7 @@ Completed assignments:
 
 ### JS module 4
 
-[My link to js mod 4 folder at users.metropolia.fi](https://users.metropolia.fi/~leevinyr/webdev-assignments/js-3/)
+[My link to js mod 4 folder at users.metropolia.fi](https://users.metropolia.fi/~leevinyr/webdev-assignments/js-4/)
 
 - Task 1: 2p
 - Task 2: 2p
