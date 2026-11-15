@@ -36,3 +36,17 @@ Completed assignments:
 - Task 10: 8p
 
 **Total 27p**
+
+### JS module 4
+
+[My link to js mod 4 folder at users.metropolia.fi](https://users.metropolia.fi/~leevinyr/webdev-assignments/js-3/)
+
+- Task 1: 2p
+- Task 2: 2p
+- Task 3: 2p
+- Task 4: 2p
+- Task 5: 5p
+- Task 6: 1p
+- Task 7: 2p
+
+**Total 16p**
